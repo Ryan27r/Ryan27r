@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ryan Rodrigues 
 
-**`Desenvolvedora FullStack`**
+**`Estudante de computação`**
 
 Me chamo Ryan Rodrigues, tenho 20 anos, Concluí o ensino médio em 2023 e atualmente estou cursando o 5° periodo deCiência da computação no Centro universitario Muricio de Nassau. Tenho interesse nas area de dados e desenvolvimento web;
 
@@ -80,30 +80,7 @@ Me chamo Ryan Rodrigues, tenho 20 anos, Concluí o ensino médio em 2023 e atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
