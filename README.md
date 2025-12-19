@@ -10,6 +10,15 @@ Me chamo Ryan Rodrigues, tenho 20 anos, Concluí o ensino médio em 2023 e atual
 
 <img 
     align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://techicons.dev/icons/mysql"
+/>
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
